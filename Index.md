@@ -1,0 +1,6 @@
+## Index of source code examples
+
+
+\Add barcode to Word document (VB.NET)
+\Add barcode to Word document in (C#)
+\VBA - Generate Barcodes In Word
